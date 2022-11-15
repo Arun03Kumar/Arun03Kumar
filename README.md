@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 </h1>
 <br><br>
-<picture>
+<picture align="center">
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=Arun03Kumar&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
