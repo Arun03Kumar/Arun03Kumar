@@ -1,5 +1,6 @@
 <h1 align="center"> Hi there 👋 </h1>
 <br><br>
+![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arun03Kumar&show_icons=true&bg_color=00000000)
 <h2 align="center">visit my portfolio : <a href="https://arun03kumar.github.io/">Here</a></h2>
 <p align="center"> I am ARUN KUMAR. I Love ❤️ programming and I like to add curly braces always in a new Line ;). </p>
 <h3 align="center"> Language & Skills </h3>
